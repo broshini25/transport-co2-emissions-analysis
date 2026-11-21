@@ -40,7 +40,8 @@ The analysis uses transportation CO₂ emissions, total CO₂ emissions, and pop
 - Country clustering
 - Dashboard development
 
-# Interactive Dashboard
+## Dashboard Preview
+A PDF version of the dashboard is included to showcase the key visualizations and insights from the analysis.
 [View Dashboard]
 
 # Key Research Questions
