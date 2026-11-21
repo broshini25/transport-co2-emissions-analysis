@@ -42,7 +42,7 @@ The analysis uses transportation CO₂ emissions, total CO₂ emissions, and pop
 
 # Dashboard Preview
 A PDF version of the dashboard is included to showcase the key visualizations and insights from the analysis.
-[View Dashboard (PDF)](dashboard)
+[View Dashboard (PDF)](dashboard/Global_Transport_CO₂_Emissions_Analysis.pdf)
 
 # Key Research Questions
 
